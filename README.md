@@ -30,11 +30,11 @@ The goals set for the entire project are listed as follows:
 7. PyTorch Framework: To implement the language processing algorithm.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/images/login%201.png" alt="Login Screen" style="width:500px; height:auto; margin:10px;" />
-    <img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/images/login%202.png" alt="Text Sending" style="width:450px; height:auto; margin:10px;" />
+  <img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/login%201.png" alt="Login Screen" style="width:500px; height:auto; margin:10px;" />
+    <img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/login%202.png" alt="Text Sending" style="width:450px; height:auto; margin:10px;" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/images/mongo.png" alt="Message reception and classification using RoBERTa for Zero-Shot Classification" style="width:600px; height:auto; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/Zero-Shot-RoBERTa_Crowdsensing_Mobile_App/main/mongo.png" alt="Message reception and classification using RoBERTa for Zero-Shot Classification" style="width:600px; height:auto; margin:10px;" />
 </div>
 
